@@ -1,0 +1,5 @@
+{
+  "name": "El Ejercicio del Mito al Logos",
+  "description": "Una aplicación que proporciona explicaciones racionales, científicas e históricas para mitos y fantasías de todo el mundo, utilizando la API de Gemini para generar análisis detallados.",
+  "requestFramePermissions": []
+}
